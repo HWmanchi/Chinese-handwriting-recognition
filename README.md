@@ -7,5 +7,5 @@ Step 3: Data augmentation.
 Step 4: Build the model.
 Step 5: Train the model.
 Step 6: Training 50 epochs, the accuracy is almost 96%. (Optional, if your dataset is too large, please skip.)
-Step 7: Pick up one image file (.png, .jpg...) for testing, and check the accuracy. If not good, please revise the model and re-train it.
-Step 8: Save the model. (.h5)
+Step 7: Pick up one image file (.png, or .jpg...) for testing, and check the accuracy. If the result doesn't reach your standard, please revise the model and re-train it.
+Step 8: Save the model. (.h5 or other)
